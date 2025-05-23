@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # CFG-Based Chatbot for Grammar Validation 🤖
 
-This project demonstrates the use of Context-Free Grammar (CFG) and NLTK to build a simple chatbot that validates English sentence grammar.
+This project demonstrates the use of Context-Free Grammar (CFG) and NLTK to build a simple chatbot that validates English and Hindi sentence grammar.
 
 ## Run in Terminal
 ```bash
